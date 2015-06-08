@@ -1,2 +1,4 @@
-# GEOL-F-101-Introduction_aux_sciences_de_la_terre-Resume
-Résumé du cours de INFO-F208 - Introduction à la bioinformatique de l'Université Libre de Bruxelles (ULB).GEOL-F-101 - Introduction aux sciences de la terre
+# GEOL-F101 - Introduction aux sciences de la terre
+Résumé du cours de GEOL-F101 - Introduction aux sciences de la terre de l'Université Libre de Bruxelles (ULB).
+
+Autres cours : https://rodriguevb.github.io
